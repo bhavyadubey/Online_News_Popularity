@@ -9,17 +9,14 @@ classification learning algorithm to accurately predict if a news story will bec
 
 *List of Predictive Attributes of Dataset:*
 
-Number of images 
 
-Number of videos
+![image](https://user-images.githubusercontent.com/42567661/151770954-4c1f4ae2-07db-42aa-8b7b-5994d6311d43.png)
 
-Number of words in title
 
-Number of workds in the article
+For each instance of the dataset, it has 61 attributes which includes 1 target attribute (number of 
+shares), 2 non-predictive features (URL of the article and Days between the article publication and the dataset 
+acquisition) and 58 predictive features.
 
-Rate of non stop words
-
-Rate of Unique Words...
 
 **Graphs and Visualizations**
 
