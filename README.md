@@ -1,4 +1,4 @@
-Online_News_Popularity_Prediction
+**Online News Popularity Prediction**
 
 
 This work will help online news companies to predict news popularity before publication ,the news popularity are often indicated by the amount 
@@ -7,13 +7,21 @@ predicted before the publication. Thus, it's  interesting and meaningful to use 
 of online news articles.In our project, the dataset including 39,643 news articles from  website Mashable, we attempt to find the simplest 
 classification learning algorithm to accurately predict if a news story will become popular or not before publication. 
 
-List of Predictive Attributes of Dataset:
+*List of Predictive Attributes of Dataset:*
+
 Number of images 
-Number of videos 
-Number of words in title 
+
+Number of videos
+
+Number of words in title
+
 Number of workds in the article
+
 Rate of non stop words
+
 Rate of Unique Words...
+
+**Graphs and Visualizations**
 
 Popular/unpopular news over different days of a week
 
@@ -35,6 +43,9 @@ Performance of three classifiers under default parameter settings:
 
 ![image](https://user-images.githubusercontent.com/42567661/151769493-922b5e66-d736-4314-b083-8284a0214d87.png)
 
+
+**Final Model Result and Accuracy Scores**
+
 Tested the model with training/testing set ratio 0.15
 
 ![image](https://user-images.githubusercontent.com/42567661/151769602-1d06b7bf-18fb-4ced-a4d5-4d6796f7d680.png)
@@ -43,7 +54,7 @@ Tested the model with training/testing set ratio 0.15
 I came to conclusion after comparing the results obtained from all the three classifiers used that Random forest 
 algorithm proves to be the most accurate amongst all giving  us an accuracy rate of 67%.
 
-Dataset Link: https://archive.ics.uci.edu/ml/datasets/Online+News+
+**Dataset Link** : https://archive.ics.uci.edu/ml/datasets/Online+News+
 
 
 
